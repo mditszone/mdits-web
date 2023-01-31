@@ -1,0 +1,58 @@
+ /* .container{
+      
+   padding-top: 15px;
+   display: flex;
+   column-gap: 5px;
+   background-size: cover;
+   padding: 5rem 0 0;
+   
+    transition: transform 500ms ease;
+} 
+.img{
+    background-color: red;
+    color: green; */
+ 
+/*
+ .group {
+    width: 100%;
+    height: 60%;
+ 
+    
+ } 
+  */
+ /* * {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  /* .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  } */ */
+  .flex-container-11 {
+    height: 25%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 3px;
+    font-weight: 700;
+    display: flex;
+  }
+  
+  .team {
+    letter-spacing: 1px;
+  }
+  
+  .rectangle-647 {
+    width: 79px;
+    height: 2px;
+    object-fit: cover;
+  }
+  
